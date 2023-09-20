@@ -3,8 +3,8 @@ import React from "react";
 const Banner = () => {
   return (
     <>
-      <div className="bg-[#1E1E1E] w-full h-[444px] md:h-[1000px] p-3 ">
-        <div className="w-[290px] md:w-[500px] mt-20 md:mt-[28rem] m-5 md:m-24">
+      <div className="bg-[#1E1E1E] w-full h-[444px] md:h-[700px] p-3 ">
+        <div className="w-[290px] md:w-[500px] mt-20 md:mt-[15rem] m-5 md:m-24">
         <div className="">
           <span className="text-[#F6B76C] font-Caveat text-3xl  md:text-4xl">
             Enjoy an North Indian Delight

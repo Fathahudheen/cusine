@@ -7,6 +7,7 @@ import Newsletter from "./Components/Newsletter"
 import Footers from "./Components/Footers";
 
 const App = () => {
+  
   return (
     <div>
       <Todaysp/>
